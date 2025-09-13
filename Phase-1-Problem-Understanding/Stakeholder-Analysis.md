@@ -1,6 +1,17 @@
 # Stakeholder Analysis
-|Stakeholder        |Role                      |Interests/Concerns                           |
-|-------------------|--------------------------|---------------------------------------------|
-| Loan Officers     | Process loan applications| Efficient lead management, quick approvals  |
-| Customers         | Apply for loans          | Transparent process, timely updates         |
-| Branch Managers   | Oversee branch operations| Track conversion rates, performance metrics |
+
+This document identifies the key stakeholders for the Loan Application CRM project.
+
+## Stakeholders
+
+- **Loan Officers**
+  - Role: Process loan applications
+  - Interests/Concerns: Efficient lead management, faster approvals, easy access to customer data
+
+- **Customers**
+  - Role: Apply for loans
+  - Interests/Concerns: Transparent loan process, timely updates, data privacy
+
+- **Branch Managers**
+  - Role: Oversee branch operations
+  - Interests/Concerns: Monitor loan conversion rates, track team performance, ensure compliance
